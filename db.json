@@ -25,233 +25,45 @@
   "agentProjectInvitation": [
     {
       "user_id": "u202111654",
-      "project_id": "PJ5757",
-      "team": "buy_side",
-      "confirmation": false,
-      "id": 1
-    },
-    {
-      "user_id": "u202218227",
-      "project_id": "PJ5757",
-      "team": "sell_side",
-      "confirmation": false,
-      "id": 2
-    },
-    {
-      "user_id": "u202111654",
       "project_id": "PJ1818",
       "team": "buy_side",
-      "confirmation": false,
+      "confirmation": true,
       "id": 3
     },
     {
       "user_id": "u202218227",
       "project_id": "PJ1818",
       "team": "sell_side",
-      "confirmation": false,
+      "confirmation": true,
       "id": 4
     },
     {
       "user_id": "u202111654",
-      "project_id": "PJ3555",
-      "team": "buy_side",
-      "confirmation": false,
-      "id": 5
-    },
-    {
-      "user_id": "U202218227",
-      "project_id": "PJ3555",
-      "team": "sell_side",
-      "confirmation": false,
-      "id": 6
-    },
-    {
-      "user_id": "u202111654",
-      "project_id": "PJ3556",
-      "team": "buy_side",
-      "confirmation": false,
-      "id": 7
-    },
-    {
-      "user_id": "U202218227",
-      "project_id": "PJ3556",
-      "team": "sell_side",
-      "confirmation": false,
-      "id": 8
-    },
-    {
-      "user_id": "u202111654",
-      "project_id": "PJ4445",
-      "team": "buy_side",
-      "confirmation": false,
-      "id": 9
-    },
-    {
-      "user_id": "U202218227",
-      "project_id": "PJ4445",
-      "team": "sell_side",
-      "confirmation": false,
-      "id": 10
-    },
-    {
-      "user_id": "u202111654",
-      "project_id": "PJ4441",
-      "team": "buy_side",
-      "confirmation": false,
-      "id": 11
-    },
-    {
-      "user_id": "U202218227",
-      "project_id": "PJ4441",
-      "team": "sell_side",
-      "confirmation": false,
-      "id": 12
-    },
-    {
-      "user_id": "u202111654",
-      "project_id": "PJ4440",
-      "team": "buy_side",
-      "confirmation": false,
-      "id": 13
-    },
-    {
-      "user_id": "U202218227",
-      "project_id": "PJ4440",
-      "team": "sell_side",
-      "confirmation": false,
-      "id": 14
-    },
-    {
-      "user_id": "u202111654",
-      "project_id": "PJ1111",
-      "team": "buy_side",
-      "confirmation": false,
-      "id": 15
-    },
-    {
-      "user_id": "U202218227",
-      "project_id": "PJ1111",
-      "team": "sell_side",
-      "confirmation": false,
-      "id": 16
-    },
-    {
-      "user_id": "u202111654",
-      "project_id": "PJ4431",
-      "team": "buy_side",
-      "confirmation": false,
-      "id": 17
-    },
-    {
-      "user_id": "U202218227",
-      "project_id": "PJ4431",
-      "team": "sell_side",
-      "confirmation": false,
-      "id": 18
-    },
-    {
-      "user_id": "u202111654",
       "project_id": "PJ0001",
       "team": "buy_side",
-      "confirmation": false,
+      "confirmation": true,
       "id": 19
     },
     {
-      "user_id": "U202218227",
-      "project_id": "PJ0001",
-      "team": "sell_side",
-      "confirmation": false,
-      "id": 20
-    },
-    {
-      "user_id": "u202218227",
-      "project_id": "PJ2004",
-      "team": "sell_side",
-      "confirmation": true,
-      "id": 21
-    },
-    {
       "user_id": "u202111654",
-      "project_id": "PJ2004",
-      "team": "buy_side",
-      "confirmation": false,
-      "id": 22
+      "project_id": "pj1117",
+      "team": "sell_side",
+      "confirmation": true,
+      "id": 25
     },
     {
       "user_id": "u202218227",
-      "project_id": "PJ0023",
-      "team": "sell_side",
-      "confirmation": true,
-      "id": 23
-    },
-    {
-      "user_id": "U202218226",
-      "project_id": "PJ0023",
+      "project_id": "pj1117",
       "team": "buy_side",
       "confirmation": false,
-      "id": 24
+      "id": 26
     }
   ],
   "pendingProjects": [
     {
-      "id": "PJ5757",
-      "name": "Project Pepsi",
-      "date_published": "1-4-2024"
-    },
-    {
-      "id": "PJ1818",
-      "name": "Project Acabado",
-      "date_published": "5-3-2024"
-    },
-    {
-      "id": "PJ3555",
-      "name": "Project Ronaldo",
-      "date_published": "3-4-2024"
-    },
-    {
-      "id": "PJ3556",
-      "name": "Project Abel",
-      "date_published": "3-4-2024"
-    },
-    {
-      "id": "PJ4445",
-      "name": "Project MKPro",
-      "date_published": "3-4-2024"
-    },
-    {
-      "id": "PJ4441",
-      "name": "Project MM",
-      "date_published": "3-4-2024"
-    },
-    {
-      "id": "PJ4440",
-      "name": "Project Joqui",
-      "date_published": "3-4-2024"
-    },
-    {
-      "id": "PJ1111",
-      "name": "Project Mallma",
-      "date_published": "3-4-2024"
-    },
-    {
-      "id": "PJ4431",
-      "name": "Project LETS GO",
-      "date_published": "3-4-2024"
-    },
-    {
-      "id": "PJ0001",
-      "name": "Project Beta",
-      "date_published": "3-4-2024"
-    },
-    {
-      "id": "PJ2004",
-      "name": "Project Portugal",
-      "date_published": "3-4-2024"
-    },
-    {
-      "id": "PJ0023",
-      "name": "Project Duell",
-      "date_published": "3-4-2024"
+      "id": "PJ1117",
+      "name": "Project Mary",
+      "date_published": "1-5-2024"
     }
   ],
   "dueDiligenceProjects": [
@@ -290,6 +102,114 @@
       "buy_side_agents_id": [
         "u202218226"
       ]
+    },
+    {
+      "id": "PJ2004",
+      "name": "Project Portugal",
+      "date_published": "3-4-2024",
+      "date_edited": "3-4-2024",
+      "sell_side_agents_id": [
+        "u202218227"
+      ],
+      "buy_side_agents_id": [
+        "u202111654"
+      ]
+    },
+    {
+      "id": "PJ1818",
+      "name": "Project Acabado",
+      "date_published": "3-4-2024",
+      "date_edited": "3-4-2024",
+      "sell_side_agents_id": [
+        "u202218227"
+      ],
+      "buy_side_agents_id": [
+        "u202111654"
+      ]
+    },
+    {
+      "id": "PJ5757",
+      "name": "Project Pepsi",
+      "date_published": "1-5-2024",
+      "date_edited": "1-5-2024",
+      "sell_side_agents_id": [
+        "u202218227"
+      ],
+      "buy_side_agents_id": [
+        "u202111654"
+      ]
+    },
+    {
+      "id": "PJ3555",
+      "name": "Project Ronaldo",
+      "date_published": "1-5-2024",
+      "date_edited": "1-5-2024",
+      "sell_side_agents_id": [
+        "u202218227"
+      ],
+      "buy_side_agents_id": [
+        "u202111654"
+      ]
+    },
+    {
+      "id": "PJ3556",
+      "name": "Project Abel",
+      "date_published": "1-5-2024",
+      "date_edited": "1-5-2024",
+      "sell_side_agents_id": [
+        "u202218227"
+      ],
+      "buy_side_agents_id": [
+        "u202111654"
+      ]
+    },
+    {
+      "id": "PJ4431",
+      "name": "Project LETS GO",
+      "date_published": "1-5-2024",
+      "date_edited": "1-5-2024",
+      "sell_side_agents_id": [
+        "u202218227"
+      ],
+      "buy_side_agents_id": [
+        "u202111654"
+      ]
+    },
+    {
+      "id": "PJ0001",
+      "name": "Project Beta",
+      "date_published": "1-5-2024",
+      "date_edited": "1-5-2024",
+      "sell_side_agents_id": [
+        "u202218227"
+      ],
+      "buy_side_agents_id": [
+        "u202111654"
+      ]
+    },
+    {
+      "id": "PJ2222",
+      "name": "Project Luis",
+      "date_published": "1-5-2024",
+      "date_edited": "1-5-2024",
+      "sell_side_agents_id": [
+        "u202111654"
+      ],
+      "buy_side_agents_id": [
+        "u202218227"
+      ]
+    },
+    {
+      "id": "PJ9999",
+      "name": "Project Angel UWU",
+      "date_published": "1-5-2024",
+      "date_edited": "1-5-2024",
+      "sell_side_agents_id": [
+        "u202111654"
+      ],
+      "buy_side_agents_id": [
+        "u202218227"
+      ]
     }
   ],
   "informationGroup": [
@@ -308,22 +228,43 @@
       "identifier": "1",
       "name": "Balance de comprobación (en Excel) abierto al máximo nivel de dígitos (años 2015 al 2017)",
       "parent": "Financiero",
-      "buy_status": "Done",
-      "sell_status": "Done",
+      "buy_status": "In Progress",
+      "sell_status": "None",
       "children": [
         {
           "project_id": "PJ2122",
-          "informationGroup_id": "1",
-          "file_name": "upc-pre-202202-si400-examen-final.pdf",
-          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2Fupc-pre-202202-si400-examen-final.pdf?alt=media&token=be97fe9c-f919-45a3-9170-0006a04d0a20",
-          "id": 2
+          "informationGroup_id": 2,
+          "file_name": "Formato de solicitud de cambio de nota 2023 u202218227.pdf",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2FFormato%20de%20solicitud%20de%20cambio%20de%20nota%202023%20u202218227.pdf?alt=media&token=87dc9481-5da3-4e11-b193-3d164beedd92",
+          "id": 1
         },
         {
           "project_id": "PJ2122",
-          "informationGroup_id": "1",
-          "file_name": "upc-pre-202301-si397-si33-START Group-performance-tf.pdf",
-          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2Fupc-pre-202301-si397-si33-START%20Group-performance-tf.pdf?alt=media&token=602eb93d-0c69-4e55-bb21-6867925d3d16",
-          "id": 3
+          "informationGroup_id": 2,
+          "file_name": "pregunta4.PNG",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2122%2F0%2F0%2Fpregunta4.PNG?alt=media&token=4d872208-0dc4-49c8-9f3a-f8dc77420da1",
+          "id": 7
+        },
+        {
+          "project_id": "PJ2122",
+          "informationGroup_id": 2,
+          "file_name": "pregunta3.PNG",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2122%2F0%2F0%2Fpregunta3.PNG?alt=media&token=85c85127-2b4b-4eca-8712-9713ac9b2f2f",
+          "id": 8
+        },
+        {
+          "project_id": "PJ2122",
+          "informationGroup_id": 2,
+          "file_name": "pregunta2.PNG",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2122%2F0%2F0%2Fpregunta2.PNG?alt=media&token=70898ae4-0b77-4f1d-a3d5-596f0d9c77ab",
+          "id": 9
+        },
+        {
+          "project_id": "PJ2122",
+          "informationGroup_id": 2,
+          "file_name": "pregunta.PNG",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2122%2F0%2F0%2Fpregunta.PNG?alt=media&token=3d503b84-ca41-43d7-be2a-76f3d02981ac",
+          "id": 10
         }
       ],
       "has_children": false
@@ -335,17 +276,7 @@
       "name": "Mayores analíticos de las cuentas contables por los años 2015 al 2017 (en formato Excel).",
       "parent": "Financiero",
       "buy_status": "Done",
-      "sell_status": "Done",
-      "children": [
-        {
-          "project_id": "PJ2122",
-          "informationGroup_id": "2",
-          "file_name": "Formato de solicitud de cambio de nota 2023 u202218227.pdf",
-          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2FFormato%20de%20solicitud%20de%20cambio%20de%20nota%202023%20u202218227.pdf?alt=media&token=87dc9481-5da3-4e11-b193-3d164beedd92",
-          "id": 1
-        }
-      ],
-      "has_children": false
+      "sell_status": "Done"
     },
     {
       "id": 4,
@@ -354,14 +285,14 @@
       "name": "Libro de actas de Junta General de Accionistas",
       "parent": "Financiero",
       "buy_status": "Done",
-      "sell_status": "In Progress",
+      "sell_status": "None",
       "children": [
         {
           "project_id": "PJ2122",
-          "informationGroup_id": "3",
-          "file_name": "learning-center.pdf",
-          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2Flearning-center.pdf?alt=media&token=876694a0-9b66-441c-ab2e-4771aab69efe",
-          "id": 4
+          "informationGroup_id": 4,
+          "file_name": "Desktop - Product List.pdf",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2FDesktop%20-%20Product%20List.pdf?alt=media&token=c3cfb414-50e9-4a7e-9390-b191be102b03",
+          "id": 5
         }
       ],
       "has_children": false
@@ -373,7 +304,17 @@
       "parent": "Financiero",
       "buy_status": "None",
       "sell_status": "None",
-      "id": 5
+      "id": 5,
+      "children": [
+        {
+          "project_id": "PJ2122",
+          "informationGroup_id": 5,
+          "file_name": "MA462_S14_2.pdf",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2FMA462_S14_2.pdf?alt=media&token=85b81b24-af5d-4466-89d7-acb72669c9be",
+          "id": 6
+        }
+      ],
+      "has_children": false
     },
     {
       "project_id": "PJ2122",
@@ -435,8 +376,10 @@
       "name": "Compras de Productos IT del 2003-2023.",
       "parent": "IT",
       "buy_status": "None",
-      "sell_status": "None",
-      "id": 13
+      "sell_status": "Done",
+      "id": 13,
+      "children": [],
+      "has_children": false
     },
     {
       "project_id": "PJ2122",
@@ -464,50 +407,323 @@
       "buy_status": "None",
       "sell_status": "None",
       "id": 16
+    },
+    {
+      "project_id": "PJ2122",
+      "identifier": "Abel",
+      "name": "Abel",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 17
+    },
+    {
+      "project_id": "PJ2122",
+      "identifier": "1",
+      "name": "Deseo dinero urgentemente",
+      "parent": "Abel",
+      "buy_status": "None",
+      "sell_status": "Done",
+      "id": 18
+    },
+    {
+      "project_id": "PJ2004",
+      "identifier": "Necesito cositas.",
+      "name": "Necesito cositas.",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 19
+    },
+    {
+      "project_id": "PJ2004",
+      "identifier": "Legal",
+      "name": "Legal",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 20
+    },
+    {
+      "project_id": "PJ2004",
+      "identifier": "Tax",
+      "name": "Tax",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 21
+    },
+    {
+      "project_id": "PJ2004",
+      "identifier": "Fundamental",
+      "name": "Fundamental",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 22
+    },
+    {
+      "project_id": "PJ2004",
+      "identifier": "1",
+      "name": "Deseo dinero.",
+      "parent": "Tax",
+      "buy_status": "Done",
+      "sell_status": "None",
+      "id": 23,
+      "children": [],
+      "has_children": false
+    },
+    {
+      "project_id": "PJ2004",
+      "identifier": "2",
+      "name": "También quiero casa.",
+      "parent": "Tax",
+      "buy_status": "None",
+      "sell_status": "None",
+      "id": 24
+    },
+    {
+      "project_id": "PJ2004",
+      "identifier": "1",
+      "name": "Dinero legal.",
+      "parent": "Fundamental",
+      "buy_status": "None",
+      "sell_status": "None",
+      "id": 25
+    },
+    {
+      "project_id": "PJ2004",
+      "identifier": "1",
+      "name": "Dinerin dineron.",
+      "parent": "Necesito cositas.",
+      "buy_status": "None",
+      "sell_status": "None",
+      "id": 26
+    },
+    {
+      "project_id": "PJ2222",
+      "identifier": "Legal",
+      "name": "Legal",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 27
+    },
+    {
+      "project_id": "PJ2222",
+      "identifier": "Tax",
+      "name": "Tax",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 28
+    },
+    {
+      "project_id": "PJ2222",
+      "identifier": "Financial",
+      "name": "Financial",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 29
+    },
+    {
+      "project_id": "PJ2222",
+      "identifier": "Operational",
+      "name": "Operational",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 30
+    },
+    {
+      "project_id": "PJ2222",
+      "identifier": "1",
+      "name": "Primero reques.",
+      "parent": "Legal",
+      "buy_status": "None",
+      "sell_status": "Done",
+      "id": 31,
+      "children": [
+        {
+          "project_id": "PJ2222",
+          "informationGroup_id": 31,
+          "file_name": "pregunta4.PNG",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2222%2F31%2Fpregunta4.PNG?alt=media&token=ea4e8fbf-ec90-40a5-ba55-4d8e80b26890"
+        },
+        {
+          "project_id": "PJ2222",
+          "informationGroup_id": 31,
+          "file_name": "pregunta3.PNG",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2222%2F31%2Fpregunta3.PNG?alt=media&token=3a721db3-d3d7-4f48-8f52-5c31b75ae535"
+        },
+        {
+          "project_id": "PJ2222",
+          "informationGroup_id": 31,
+          "file_name": "pregunta2.PNG",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2222%2F31%2Fpregunta2.PNG?alt=media&token=658055dd-8acd-43c0-907f-dd62158be056"
+        },
+        {
+          "project_id": "PJ2222",
+          "informationGroup_id": 31,
+          "file_name": "pregunta.PNG",
+          "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2222%2F31%2Fpregunta.PNG?alt=media&token=873237b4-34fb-4dd0-a1f7-fc6a914eb839"
+        }
+      ],
+      "has_children": false
+    },
+    {
+      "project_id": "PJ2222",
+      "identifier": "2",
+      "name": "Segundos reques.",
+      "parent": "Legal",
+      "buy_status": "None",
+      "sell_status": "None",
+      "id": 32
+    },
+    {
+      "project_id": "PJ9999",
+      "identifier": "XD",
+      "name": "XD",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 33
+    },
+    {
+      "project_id": "PJ9999",
+      "identifier": "uwu",
+      "name": "uwu",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 34
+    },
+    {
+      "project_id": "PJ9999",
+      "identifier": "lol",
+      "name": "lol",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 35
+    },
+    {
+      "project_id": "PJ9999",
+      "identifier": ":v",
+      "name": ":v",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 36
+    },
+    {
+      "project_id": "PJ9999",
+      "identifier": "jiji",
+      "name": "jiji",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 37
+    },
+    {
+      "project_id": "PJ9999",
+      "identifier": "jaja",
+      "name": "jaja",
+      "parent": null,
+      "buy_status": null,
+      "sell_status": null,
+      "id": 38
+    },
+    {
+      "project_id": "PJ9999",
+      "identifier": "1",
+      "name": "ewe",
+      "parent": "uwu",
+      "buy_status": "None",
+      "sell_status": "None",
+      "id": 39
+    },
+    {
+      "project_id": "PJ2122",
+      "identifier": "7",
+      "name": "lol",
+      "parent": "Financiero",
+      "buy_status": "None",
+      "sell_status": "None",
+      "id": 40
     }
   ],
   "document": [
     {
       "project_id": "PJ2122",
-      "informationGroup_id": "2",
-      "file_name": "Formato de solicitud de cambio de nota 2023 u202218227.pdf",
-      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2FFormato%20de%20solicitud%20de%20cambio%20de%20nota%202023%20u202218227.pdf?alt=media&token=87dc9481-5da3-4e11-b193-3d164beedd92",
+      "informationGroup_id": 2,
+      "file_name": "SW51-Herrera Gonzalez Luis Eduardo.pdf",
+      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2122%2F2%2FSW51-Herrera%20Gonzalez%20Luis%20Eduardo.pdf?alt=media&token=35a47fdc-4a36-40ba-b938-3fa4aab08fb3",
       "id": 1
     },
     {
       "project_id": "PJ2122",
-      "informationGroup_id": "1",
-      "file_name": "upc-pre-202202-si400-examen-final.pdf",
-      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2Fupc-pre-202202-si400-examen-final.pdf?alt=media&token=be97fe9c-f919-45a3-9170-0006a04d0a20",
-      "id": 2
-    },
-    {
-      "project_id": "PJ2122",
-      "informationGroup_id": "1",
-      "file_name": "upc-pre-202301-si397-si33-START Group-performance-tf.pdf",
-      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2Fupc-pre-202301-si397-si33-START%20Group-performance-tf.pdf?alt=media&token=602eb93d-0c69-4e55-bb21-6867925d3d16",
+      "informationGroup_id": 18,
+      "file_name": "pregunta4.PNG",
+      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2122%2F18%2Fpregunta4.PNG?alt=media&token=c3446a80-7f70-4381-b3dc-5dfbe54ea7b5",
       "id": 3
     },
     {
       "project_id": "PJ2122",
-      "informationGroup_id": "3",
-      "file_name": "learning-center.pdf",
-      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2Flearning-center.pdf?alt=media&token=876694a0-9b66-441c-ab2e-4771aab69efe",
+      "informationGroup_id": 4,
+      "file_name": "Round Robin 1.xlsx",
+      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2122%2F4%2FRound%20Robin%201.xlsx?alt=media&token=bdf298a7-847c-4239-9511-4ea5119cd04b",
       "id": 4
     },
     {
       "project_id": "PJ2122",
-      "informationGroup_id": "4",
-      "file_name": "Desktop - Product List.pdf",
-      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2FDesktop%20-%20Product%20List.pdf?alt=media&token=c3cfb414-50e9-4a7e-9390-b191be102b03",
+      "informationGroup_id": 13,
+      "file_name": "pregunta4.PNG",
+      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2122%2F13%2Fpregunta4.PNG?alt=media&token=19c86d79-1ae2-46bd-8279-7f83b76add4e",
       "id": 5
     },
     {
       "project_id": "PJ2122",
-      "informationGroup_id": "5",
-      "file_name": "MA462_S14_2.pdf",
-      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/vue%2FMA462_S14_2.pdf?alt=media&token=85b81b24-af5d-4466-89d7-acb72669c9be",
+      "informationGroup_id": 13,
+      "file_name": "pregunta3.PNG",
+      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2122%2F13%2Fpregunta3.PNG?alt=media&token=65e12721-c5a9-4da8-9967-2516f5e6e9ba",
       "id": 6
+    },
+    {
+      "project_id": "PJ2122",
+      "informationGroup_id": 13,
+      "file_name": "pregunta2.PNG",
+      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2122%2F13%2Fpregunta2.PNG?alt=media&token=11c896ae-995f-4269-a365-1c5013b29597",
+      "id": 7
+    },
+    {
+      "project_id": "PJ2222",
+      "informationGroup_id": 31,
+      "file_name": "pregunta4.PNG",
+      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2222%2F31%2Fpregunta4.PNG?alt=media&token=ea4e8fbf-ec90-40a5-ba55-4d8e80b26890",
+      "id": 8
+    },
+    {
+      "project_id": "PJ2222",
+      "informationGroup_id": 31,
+      "file_name": "pregunta3.PNG",
+      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2222%2F31%2Fpregunta3.PNG?alt=media&token=3a721db3-d3d7-4f48-8f52-5c31b75ae535",
+      "id": 9
+    },
+    {
+      "project_id": "PJ2222",
+      "informationGroup_id": 31,
+      "file_name": "pregunta2.PNG",
+      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2222%2F31%2Fpregunta2.PNG?alt=media&token=658055dd-8acd-43c0-907f-dd62158be056",
+      "id": 10
+    },
+    {
+      "project_id": "PJ2222",
+      "informationGroup_id": 31,
+      "file_name": "pregunta.PNG",
+      "file_url": "https://firebasestorage.googleapis.com/v0/b/diligencetech-e4fb4.appspot.com/o/uploads%2FPJ2222%2F31%2Fpregunta.PNG?alt=media&token=873237b4-34fb-4dd0-a1f7-fc6a914eb839",
+      "id": 11
     }
   ],
   "questions": [
